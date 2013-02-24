@@ -1,4 +1,3 @@
-
 /*
   Web client
  
@@ -24,8 +23,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "DG860AA2";      //  your network SSID (name)
-char pass[] = "DG860A4B83A2";   // your network password
+char ssid[] = "?";      //  your network SSID (name)
+char pass[] = "?";   // your network password
 
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 int inputValueFromServer;
